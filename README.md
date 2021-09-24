@@ -1,8 +1,8 @@
--Hi, I’m @chhavi019
--I’m interested in ... stuff
--I’m currently learning ... Java
--I’m looking to collaborate on ... projects?
--How to reach me ... dont
+- Hi, I’m @chhavi019
+- I’m interested in ... stuff
+- I’m currently learning ... Java
+- I’m looking to collaborate on ... projects?
+- How to reach me ... dont
 
 <!---
 chhavi019/chhavi019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
