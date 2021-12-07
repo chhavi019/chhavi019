@@ -1,6 +1,6 @@
 - Hi, I’m @chhavi019
 - I’m interested in ... stuff
-- I’m currently learning ... Java
+- I’m currently learning ... c
 - I’m looking to collaborate on ... projects?
 - How to reach me ... dont
 
